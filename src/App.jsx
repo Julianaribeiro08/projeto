@@ -7,7 +7,7 @@ function App(){
 
     return( <div>
         <Cabecalho/>
-        <img src={amazonas} className="img"/>
+        <img src={amazonas} className="imagem"/>
         <h1>Das grandes florestas, às cidades planejadas e praias de água doce, o que não falta na região Norte são atrações turísticas. E, se você deseja 
             saber o que esses locais têm de melhor, separamos alguns que você precisa conhecer. Confira!</h1>
          

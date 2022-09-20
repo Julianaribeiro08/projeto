@@ -5,7 +5,7 @@ import Autocomplete from '@mui/material/Autocomplete';
 export default function Cabecalho() {
   return (
     <div className="cabecalho">
-      <img className="img" src='src/imagens/azul.png'/>
+      <img className="img" src='src/imagens/logo.jfif'/>
         <Autocomplete className="button"
       disablePortal
       id="combo-box-demo"
